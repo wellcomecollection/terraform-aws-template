@@ -1,6 +1,6 @@
 # terraform-aws-template
 
-## When to use this module
+## When to use this module
 
 Terraform module for 🍿and to allow you to create more modules more easily and
 consistently.
