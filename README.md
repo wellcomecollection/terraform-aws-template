@@ -1,11 +1,10 @@
 # terraform-aws-template
 
-## When to use this module
+[![Build Status](https://travis-ci.org/wellcomecollection/{terraform_module_name}.svg?branch=master)](https://travis-ci.org/wellcomecollection/{terraform_module_name})
 
-Terraform module for 🍿and to allow you to create more modules more easily and
-consistently.
+Terraform template module to help create more terraform modules.
 
-## How do I use this module
+## Usage
 
 ```hcl2
 
@@ -16,6 +15,7 @@ module "example_implementation" {
 
 ```
 
-## What's in this module?
-
-- Nothing much
+## Outputs
+- `output_1` - URL of the new queue
+- `output_2` - ARN of the new queue
+- `output_3` - Name of the new queue
