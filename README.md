@@ -1,7 +1,5 @@
 # terraform-aws-template
 
-[![Build Status](https://travis-ci.org/wellcomecollection/{terraform_module_name}.svg?branch=master)](https://travis-ci.org/wellcomecollection/{terraform_module_name})
-
 Terraform template module to help create more terraform modules.
 
 ## Usage
