@@ -1,3 +1,5 @@
+**Deprecated** - new modules will not follow this template
+
 # terraform-aws-template
 
 Terraform template module to help create more terraform modules.
